@@ -49,7 +49,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 
 ## 🌐 Live Demo
 
-[View Live Website](YOUR_LIVE_WEBSITE_URL)
+[View Live Website]([YOUR_LIVE_WEBSITE_URL](https://kavi-pk.netlify.app/))
 
 ## 📸 Screenshots
 
